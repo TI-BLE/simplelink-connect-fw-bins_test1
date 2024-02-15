@@ -72,6 +72,12 @@
     "imageType" : "bim"
   },
   {
+    "fileName" : "CC2651P3/ble5_simple_peripheral_oad_offchip_public_address_cc26x1p3_iar_FlashOnly_Release_oad_v2.bin",
+    "version" : "7.40.00.59.0.0+0",
+    "hwType" : "CC2651P3",
+    "imageType" : "bim"
+  },
+  {
     "fileName" : "CC2652R1/simple_peripheral_oad_offchip_CC26X2R1_LAUNCHXL_tirtos7_ticlang_oad-v2.0.0.bin",
     "version" : "7.10.00.98.0.0+0",
     "hwType" : "CC2652R1",
@@ -84,6 +90,18 @@
     "imageType" : "bim"
   },
   {
+    "fileName" : "CC2652R1/ble5_simple_peripheral_oad_offchip_public_address_cc26x2r1_iar_FlashROM_Release_oad_v2.bin",
+    "version" : "7.40.00.59.0.0+0",
+    "hwType" : "CC2652R1",
+    "imageType" : "bim"
+  },
+  {
+    "fileName" : "CC2652R1/ble5_simple_peripheral_oad_onchip_public_address_cc26x2r1_iar_FlashROM_Release_oad_v2.bin",
+    "version" : "7.40.00.59.0.0+0",
+    "hwType" : "CC2652R1",
+    "imageType" : "bim"
+  },
+  {
     "fileName" : "CC2652R7/simple_peripheral_oad_offchip_LP_CC2652R7_tirtos7_ticlang_oad-v2.0.0.bin",
     "version" : "7.10.00.98.0.0+0",
     "hwType" : "CC2652R7",
@@ -92,6 +110,18 @@
   {
     "fileName" : "CC2652R7/simple_peripheral_oad_onchip_LP_CC2652R7_tirtos7_ticlang_oad-v2.0.0.bin",
     "version" : "7.10.00.98.0.0+0",
+    "hwType" : "CC2652R7",
+    "imageType" : "bim"
+  },
+  {
+    "fileName" : "CC2652R7/ble5_simple_peripheral_oad_offchip_public_address_cc26x2r7_iar_FlashROM_Release_oad_v2.bin",
+    "version" : "7.40.00.59.0.0+0",
+    "hwType" : "CC2652R7",
+    "imageType" : "bim"
+  },
+  {
+    "fileName" : "CC2652R7/ble5_simple_peripheral_oad_onchip_public_address_cc26x2r7_iar_FlashROM_Release_oad_v2.bin",
+    "version" : "7.40.00.59.0.0+0",
     "hwType" : "CC2652R7",
     "imageType" : "bim"
   }
