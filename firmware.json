@@ -78,7 +78,7 @@
     "imageType" : "mcuboot"
   },
   {
-    "fileName" : "CC1354P10-1/8_30_00_51/ble5_basic_ble_oad_onchip_peripheral_rpa_public_id_cc1354p10_1_ticlang_FlashOnly_Release_v2.bin",
+    "fileName" : "CC1354P10-1/8_30_00_51/ble5_basic_ble_oad_onchip_peripheral_cc1354p10_1_ticlang_FlashOnly_Release_v2.bin",
     "version" : "8.30.00.51.0.0+0",
     "hwType" : "LP_EM_CC1354P10-1",
     "imageType" : "mcuboot"
@@ -90,7 +90,7 @@
     "imageType" : "mcuboot"
   },
   {
-    "fileName" : "CC1354P10-6/8_30_00_51/ble5_basic_ble_oad_onchip_peripheral_rpa_public_id_cc1354p10_6_ticlang_FlashOnly_Release_v2.bin",
+    "fileName" : "CC1354P10-6/8_30_00_51/ble5_basic_ble_oad_onchip_peripheral_cc1354p10_6_ticlang_FlashOnly_Release_v2.bin",
     "version" : "8.30.00.51.0.0+0",
     "hwType" : "LP_EM_CC1354P10-6",
     "imageType" : "mcuboot"
@@ -102,7 +102,7 @@
     "imageType" : "mcuboot"
   },
   {
-    "fileName" : "CC2674P10/8_30_00_51/ble5_basic_ble_oad_onchip_peripheral_rpa_public_id_cc2674p10_ticlang_FlashOnly_Release_v2.bin",
+    "fileName" : "CC2674P10/8_30_00_51/ble5_basic_ble_oad_onchip_peripheral_cc2674p10_ticlang_FlashOnly_Release_v2.bin",
     "version" : "8.30.00.51.0.0+0",
     "hwType" : "LP_EM_CC2674P10",
     "imageType" : "mcuboot"
