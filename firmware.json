@@ -84,6 +84,18 @@
     "imageType" : "secure boot"
   },
   {
+    "fileName" : "LP_EM_CC2745R10Q1/ble5_basic_ble_oad_dual_image_peripheral_v2_cc2745r10q1_ticlang_FlashOnly_Release_sb.bin",
+    "version" : "8.40.00.18",
+    "hwType" : "LP_EM_CC2745R10Q1",
+    "imageType" : "secure boot"
+  },
+  {
+    "fileName" : "LP_EM_CC2745R10Q1/ble5_basic_ble_oad_onchip_peripheral_v2_cc2745r10q1_ticlang_FlashOnly_Release_sb.bin",
+    "version" : "8.40.00.18",
+    "hwType" : "LP_EM_CC2745R10Q1",
+    "imageType" : "secure boot"
+  },
+  {
     "fileName" : "CC1354P10-1/8_30_00_51/ble5_basic_ble_oad_offchip_peripheral_public_address_cc1354p10_1_ticlang_FlashOnly_Release_v2.bin",
     "version" : "8.30.00.51.0.0+0",
     "hwType" : "LP_EM_CC1354P10-1",
