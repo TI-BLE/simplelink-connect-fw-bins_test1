@@ -72,28 +72,16 @@
     "imageType" : "mcuboot"
   },
   {
-    "fileName" : "LP_EM_CC2745R10Q1/basic_ble_oad_dual_image_LP_EM_CC2745R10_Q1_freertos_ticlang_sb_v2.bin",
-    "version" : "Yossi",
-    "hwType" : "LP_EM_CC2745R10Q1",
-    "imageType" : "secure boot"
-  },
-  {
-    "fileName" : "LP_EM_CC2745R10Q1/basic_ble_oad_onchip_LP_EM_CC2745R10_Q1_freertos_ticlang_sb_v2.bin",
-    "version" : "Yossi",
-    "hwType" : "LP_EM_CC2745R10Q1",
-    "imageType" : "secure boot"
-  },
-  {
     "fileName" : "LP_EM_CC2745R10Q1/ble5_basic_ble_oad_dual_image_peripheral_v2_cc2745r10q1_ticlang_FlashOnly_Release_sb.bin",
-    "version" : "8.40.00.18",
+    "version" : "8.40.00.18_2.0.0+0",
     "hwType" : "LP_EM_CC2745R10Q1",
-    "imageType" : "secure boot"
+    "imageType" : "mcuboot"
   },
   {
     "fileName" : "LP_EM_CC2745R10Q1/ble5_basic_ble_oad_onchip_peripheral_v2_cc2745r10q1_ticlang_FlashOnly_Release_sb.bin",
-    "version" : "8.40.00.18",
+    "version" : "8.40.00.18_2.0.0+0",
     "hwType" : "LP_EM_CC2745R10Q1",
-    "imageType" : "secure boot"
+    "imageType" : "mcuboot"
   },
   {
     "fileName" : "CC1354P10-1/8_30_00_51/ble5_basic_ble_oad_offchip_peripheral_public_address_cc1354p10_1_ticlang_FlashOnly_Release_v2.bin",
