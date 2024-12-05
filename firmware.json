@@ -1,85 +1,55 @@
 [
   {
-    "fileName" : "LP_EM_CC2340R5/ble5_basic_ble_oad_dual_image_peripheral_cc2340r5_ticlang_FlashOnly_Release_v1.bin",
-    "version" : "8.20.00.11_1.0.0+0",
+    "fileName" : "LP_EM_CC2340R5/8_40_00_32/ble5_basic_ble_oad_dual_image_peripheral_cc2340r5_ticlang_FlashOnly_Release_v2.bin",
+    "version" : "8.40.00.32_2.0.0+0",
     "hwType" : "LP_EM_CC2340R5",
     "imageType" : "mcuboot"
   },
   {
-    "fileName" : "LP_EM_CC2340R5/ble5_basic_ble_oad_dual_image_peripheral_cc2340r5_ticlang_FlashOnly_Release_v2.bin",
-    "version" : "8.20.00.11_2.0.0+0",
+    "fileName" : "LP_EM_CC2340R5/8_40_00_32/ble5_basic_ble_oad_offchip_peripheral_public_address_cc2340r5_ticlang_FlashOnly_Release_v2.bin",
+    "version" : "8.40.00.32_2.0.0+0",
     "hwType" : "LP_EM_CC2340R5",
     "imageType" : "mcuboot"
   },
   {
-    "fileName" : "LP_EM_CC2340R5/ble5_basic_ble_oad_offchip_peripheral_cc2340r5_ticlang_FlashOnly_Release_v1.bin",
-    "version" : "8.20.00.11_1.0.0+0",
+    "fileName" : "LP_EM_CC2340R5/8_40_00_32/ble5_basic_ble_oad_onchip_peripheral_cc2340r5_ticlang_FlashOnly_Release_v2.bin",
+    "version" : "8.40.00.32_2.0.0+0",
     "hwType" : "LP_EM_CC2340R5",
     "imageType" : "mcuboot"
   },
   {
-    "fileName" : "LP_EM_CC2340R5/ble5_basic_ble_oad_offchip_peripheral_cc2340r5_ticlang_FlashOnly_Release_v2.bin",
-    "version" : "8.20.00.11_2.0.0+0",
-    "hwType" : "LP_EM_CC2340R5",
-    "imageType" : "mcuboot"
-  },
-  {
-    "fileName" : "LP_EM_CC2340R5/ble5_basic_ble_oad_onchip_peripheral_cc2340r5_ticlang_FlashOnly_Release_v1.bin",
-    "version" : "8.20.00.11_1.0.0+0",
-    "hwType" : "LP_EM_CC2340R5",
-    "imageType" : "mcuboot"
-  },
-  {
-    "fileName" : "LP_EM_CC2340R5/ble5_basic_ble_oad_onchip_peripheral_cc2340r5_ticlang_FlashOnly_Release_v2.bin",
-    "version" : "8.20.00.11_2.0.0+0",
-    "hwType" : "LP_EM_CC2340R5",
-    "imageType" : "mcuboot"
-  },
-    {
-    "fileName" : "LP_EM_CC2340R5/ble5_basic_ble_oad_dual_image_peripheral_cc2340r53_ticlang_FlashOnly_Release_v1.bin",
-    "version" : "8.20.00.11_1.0.0+0",
+    "fileName" : "LP_EM_CC2340R53/8_40_00_32/ble5_basic_ble_oad_dual_image_peripheral_cc2340r53_ticlang_FlashOnly_Release_v2.bin",
+    "version" : "8.40.00.32_2.0.0+0",
     "hwType" : "LP_EM_CC2340R53",
     "imageType" : "mcuboot"
   },
   {
-    "fileName" : "LP_EM_CC2340R5/ble5_basic_ble_oad_dual_image_peripheral_cc2340r53_ticlang_FlashOnly_Release_v2.bin",
-    "version" : "8.20.00.11_2.0.0+0",
+    "fileName" : "LP_EM_CC2340R53/8_40_00_32/ble5_basic_ble_oad_offchip_peripheral_public_address_cc2340r53_ticlang_FlashOnly_Release_v2.bin",
+    "version" : "8.40.00.32_2.0.0+0",
     "hwType" : "LP_EM_CC2340R53",
     "imageType" : "mcuboot"
   },
   {
-    "fileName" : "LP_EM_CC2340R5/ble5_basic_ble_oad_offchip_peripheral_cc2340r53_ticlang_FlashOnly_Release_v1.bin",
-    "version" : "8.20.00.11_1.0.0+0",
+    "fileName" : "LP_EM_CC2340R53/8_40_00_32/ble5_basic_ble_oad_onchip_peripheral_cc2340r53_ticlang_FlashOnly_Release_v2.bin",
+    "version" : "8.40.00.32_2.0.0+0",
     "hwType" : "LP_EM_CC2340R53",
     "imageType" : "mcuboot"
   },
   {
-    "fileName" : "LP_EM_CC2340R5/ble5_basic_ble_oad_offchip_peripheral_cc2340r53_ticlang_FlashOnly_Release_v2.bin",
-    "version" : "8.20.00.11_2.0.0+0",
-    "hwType" : "LP_EM_CC2340R53",
+    "fileName" : "LP_EM_CC2340R2/8_40_00_32/ble5_basic_ble_oad_offchip_peripheral_public_address_cc2340r2_ticlang_FlashOnly_Release_v2.bin",
+    "version" : "8.40.00.32_2.0.0+0",
+    "hwType" : "LP_EM_CC2340R2",
     "imageType" : "mcuboot"
   },
   {
-    "fileName" : "LP_EM_CC2340R5/ble5_basic_ble_oad_onchip_peripheral_cc2340r53_ticlang_FlashOnly_Release_v1.bin",
-    "version" : "8.20.00.11_1.0.0+0",
-    "hwType" : "LP_EM_CC2340R53",
-    "imageType" : "mcuboot"
-  },
-  {
-    "fileName" : "LP_EM_CC2340R5/ble5_basic_ble_oad_onchip_peripheral_cc2340r53_ticlang_FlashOnly_Release_v2.bin",
-    "version" : "8.20.00.11_2.0.0+0",
-    "hwType" : "LP_EM_CC2340R53",
-    "imageType" : "mcuboot"
-  },
-  {
-    "fileName" : "LP_EM_CC2745R10Q1/ble5_basic_ble_oad_dual_image_peripheral_v2_cc2745r10q1_ticlang_FlashOnly_Release_sb.bin",
-    "version" : "8.40.00.18_2.0.0+0",
+    "fileName" : "LP_EM_CC2745R10Q1/8_40_00_32/ble5_basic_ble_oad_dual_image_peripheral_v2_cc2745r10q1_ticlang_FlashOnly_Release_sb.bin",
+    "version" : "8.40.00.32_2.0.0+0",
     "hwType" : "LP_EM_CC2745R10Q1",
     "imageType" : "mcuboot"
   },
   {
-    "fileName" : "LP_EM_CC2745R10Q1/ble5_basic_ble_oad_onchip_peripheral_v2_cc2745r10q1_ticlang_FlashOnly_Release_sb.bin",
-    "version" : "8.40.00.18_2.0.0+0",
+    "fileName" : "LP_EM_CC2745R10Q1/8_40_00_32/ble5_basic_ble_oad_onchip_peripheral_v2_cc2745r10q1_ticlang_FlashOnly_Release_sb.bin",
+    "version" : "8.40.00.32_2.0.0+0",
     "hwType" : "LP_EM_CC2745R10Q1",
     "imageType" : "mcuboot"
   },
