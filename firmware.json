@@ -42,14 +42,14 @@
     "imageType" : "mcuboot"
   },
   {
-    "fileName" : "LP_EM_CC2745R10Q1/8_40_00_35_eng/ble5_basic_ble_oad_dual_image_peripheral_v2_cc2745r10q1_ticlang_FlashOnly_Release_sb.bin",
-    "version" : "8.40.00.35_2.0.0+0",
+    "fileName" : "LP_EM_CC2745R10Q1/8_40_00_57_eng/ble5_basic_ble_oad_dual_image_peripheral_v2_cc2745r10q1_iar_FlashOnly_Release_sb.bin",
+    "version" : "8.40.00.57_2.0.0+0",
     "hwType" : "LP_EM_CC2745R10Q1",
     "imageType" : "mcuboot"
   },
   {
-    "fileName" : "LP_EM_CC2745R10Q1/8_40_00_35_eng/ble5_basic_ble_oad_onchip_peripheral_v2_cc2745r10q1_ticlang_FlashOnly_Release_sb.bin",
-    "version" : "8.40.00.35_2.0.0+0",
+    "fileName" : "LP_EM_CC2745R10Q1/8_40_00_57_eng/ble5_basic_ble_oad_onchip_peripheral_v2_cc2745r10q1_iar_FlashOnly_Release_sb.bin",
+    "version" : "8.40.00.57_2.0.0+0",
     "hwType" : "LP_EM_CC2745R10Q1",
     "imageType" : "mcuboot"
   },
