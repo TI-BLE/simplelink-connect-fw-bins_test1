@@ -210,6 +210,30 @@
     "imageType" : "mcuboot"
   },
   {
+    "fileName" : "CC2674P10/8_30_00_105_eng_freertos/ble5_basic_ble_oad_offchip_peripheral_public_address_cc2674p10_ticlang_FlashOnly_Release_v1.bin",
+    "version" : "8.30.00.105_1.0.0+0",
+    "hwType" : "LP_EM_CC2674P10",
+    "imageType" : "mcuboot"
+  },
+  {
+    "fileName" : "CC2674P10/8_30_00_105_eng_freertos/ble5_basic_ble_oad_offchip_peripheral_public_address_cc2674p10_ticlang_FlashOnly_Release_v2.bin",
+    "version" : "8.30.00.105_2.0.0+0",
+    "hwType" : "LP_EM_CC2674P10",
+    "imageType" : "mcuboot"
+  },
+  {
+    "fileName" : "CC2674P10/8_30_00_105_eng_freertos/ble5_basic_ble_oad_onchip_peripheral_cc2674p10_ticlang_FlashOnly_Release_v1.bin",
+    "version" : "8.30.00.105_1.0.0+0",
+    "hwType" : "LP_EM_CC2674P10",
+    "imageType" : "mcuboot"
+  },
+  {
+    "fileName" : "CC2674P10/8_30_00_105_eng_freertos/ble5_basic_ble_oad_onchip_peripheral_cc2674p10_ticlang_FlashOnly_Release_v2.bin",
+    "version" : "8.30.00.105_2.0.0+0",
+    "hwType" : "LP_EM_CC2674P10",
+    "imageType" : "mcuboot"
+  },
+  {
     "fileName" : "CC2651P3/8_30_00_51_eng/ble5_simple_peripheral_oad_offchip_public_address_cc26x1p3_iar_FlashOnly_Release_oad.bin",
     "version" : "8.30.00.51_1.0.0+0",
     "hwType" : "CC2651P3",
