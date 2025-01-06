@@ -1,4 +1,4 @@
-To flash images for CC2745R10Q1 :-
+To flash images for CC2744R7 :-
 
 Tool: Uniflash (https://www.ti.com/tool/UNIFLASH) version min. 8.8.0.4946.
 
