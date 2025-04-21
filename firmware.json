@@ -24,6 +24,18 @@
     "imageType" : "mcuboot"
   },
   {
+    "fileName" : "LP_EM_CC2340R5/9_10_00_65_eng/ble5_basic_ble_oad_offchip_peripheral_cc2340r5_ticlang_FlashOnly_Release_v2.bin",
+    "version" : "9.10.00.65_2.0.0+0",
+    "hwType" : "LP_EM_CC2340R5",
+    "imageType" : "mcuboot"
+  },
+  {
+    "fileName" : "LP_EM_CC2340R5/9_10_00_65_eng/ble5_basic_ble_oad_offchip_peripheral_cc2340r5_iar_FlashOnly_Release_v2.bin",
+    "version" : "9.10.00.65_2.0.0+0",
+    "hwType" : "LP_EM_CC2340R5",
+    "imageType" : "mcuboot"
+  },
+  {
     "fileName" : "LP_EM_CC2340R5/8_40_00_57_eng/ble5_basic_ble_oad_onchip_peripheral_cc2340r5_ticlang_FlashOnly_Release_v1.bin",
     "version" : "8.40.00.57_1.0.0+0",
     "hwType" : "LP_EM_CC2340R5",
